@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="8e2c51da-e51e-4d47-98e9-d4f5164b76f6" 
+        solutionId="8e2c51da-e51e-4d47-98e9-d4f5164b76f6" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="gitRepoTest"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="1a87cec2-7640-414f-864d-9850d2dae314" />
+  </features>
+</package>
